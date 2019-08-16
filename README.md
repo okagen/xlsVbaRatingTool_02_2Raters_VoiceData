@@ -56,7 +56,7 @@ Then click the "Create sheet"(シート作成) button.
 
 ## Step 2 : Start rating.
 
-"Rating Sheet"(採点シート) will appear in the excel file like below.
+"Rating Sheet"(採点シート) will appear in the excel file like below. / 以下のような「採点シート」が表示されます。
 <img src="https://github.com/okagen/xlsVbaRatingTool_02_2Raters_VoiceData/blob/master/Data/03-1_RatingSheet.png"  width="600">  
 Then click the "Rate without groups."(分類無視採点 開始) button.  
   
