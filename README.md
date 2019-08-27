@@ -63,10 +63,13 @@ Then click the "Rate without groups."(分類無視採点 開始) button.
 The rating dialog like below will appear.
 <img src="https://github.com/okagen/xlsVbaRatingTool_02_2Raters_VoiceData/blob/master/Data/04_RatingDialog.png"  width="600">  
 
-### Description of the dialog.
+### Description of the dialog usage.
   1. The sound will start automatically when the dialog opens.
   1. Listen to the sound and input some value of point of view into the text box.
   1. Click the arrow button after input your point of view, you will listen to the next sound.
+  1. If you are a rater B, change the check of the radio button upper right on the dialog.
+  <img src="https://github.com/okagen/xlsVbaRatingTool_02_2Raters_VoiceData/blob/master/Data/04-3_RatingDialog.png"  width="600">  
+  1. If you want to leave some comment, input them into the text box lower right on the dialog.
 
 
 
