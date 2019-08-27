@@ -44,19 +44,20 @@ The excel file contains 4 sheets like below. Two sheets "$list_rating" and "$lis
 
 ## Step 1 : Input some conditions on the Tool sheet.
 
-  - Parent directory / 親ディレクトリ
+  1. Parent directory / 親ディレクトリ
       - Enter the directory path where the audio files are stored. If it's blank, the directory which contains the Excel file used as the parent directory, and the audio files under that directory are searched. / 音声ファイルが保存されてるディレクトリのパスを入力します。空欄の場合、Excelファイルが保存されているディレクトリを親ディレクトリとし、その下にある音声ファイルを検索します。
-  - Keyword in finename / ファイル名キーワード
+  1. Keyword in finename / ファイル名キーワード
       - Input "*wav". Wildcard search is available. / "*wav"を入力。ワイルドカードによる指定が可能です。
-  - Numver of point of view / 観点の数
+  1. Number of point of view / 観点の数
       - Input a number from 1 to 10. / 1～10を入力。
-      
+  1. Then click the "Create sheet"(シート作成) button. / 上記を入力したら【シート作成】ボタンを押す
+  
 <img src="https://github.com/okagen/xlsVbaRatingTool_02_2Raters_VoiceData/blob/master/Data/02-2_ToolSheet.png"  width="600">  
-Then click the "Create sheet"(シート作成) button.
+
 
 ## Step 2 : Start rating.
 
-"Rating Sheet"(採点シート) will appear in the excel file like below. / 以下のような「採点シート」が表示されます。
+  1. "Rating Sheet"(採点シート) will appear in the excel file like below. / 以下のような「採点シート」が表示されます。
 <img src="https://github.com/okagen/xlsVbaRatingTool_02_2Raters_VoiceData/blob/master/Data/03-1_RatingSheet.png"  width="600">  
 Then click the "Rate without groups."(分類無視採点 開始) button.  
   
