@@ -72,11 +72,13 @@ The excel file contains 4 sheets like below. Two sheets "$list_rating" and "$lis
   <img src="https://github.com/okagen/xlsVbaRatingTool_02_2Raters_VoiceData/blob/master/Data/04-1_RatingDialog.png"  width="600"> 
   
   3. Click the arrow button after input your point of view, you will listen to the next sound. / 入力が終わったら、矢印ボタンを押すことで次の音声を聞くことができます。
-  - If you are a rater B, change the check of the radio button upper right on the dialog. / 右上のラジオボタンで、採点者A、採点者Bを切り替えます。
+  4. If you are a rater B, change the check of the radio button upper right on the dialog. / 右上のラジオボタンで、採点者A、採点者Bを切り替えます。
   
   <img src="https://github.com/okagen/xlsVbaRatingTool_02_2Raters_VoiceData/blob/master/Data/04-3_RatingDialog.png"  width="600"> 
   
-  4. If you want to leave some comments, input them into the text box lower right on the dialog.
+  5. If you want to leave some comments, input them into the text box lower right on the dialog. / コメントを残すこともできます。
+  
+  <img src="https://github.com/okagen/xlsVbaRatingTool_02_2Raters_VoiceData/blob/master/Data/04-4_RatingDialog.png"  width="400"> 
 
 
 
