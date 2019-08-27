@@ -76,7 +76,7 @@ The excel file contains 4 sheets like below. Two sheets "$list_rating" and "$lis
   
   <img src="https://github.com/okagen/xlsVbaRatingTool_02_2Raters_VoiceData/blob/master/Data/04-3_RatingDialog.png"  width="600"> 
   
-  5. If you want to leave some comments, input them into the text box lower right on the dialog. / コメントを残すこともできます。
+  5. If you want to leave some comments, input them into the text box lower right on the dialog. / 右下のテキストボックスにコメントを残すこともできます。
   
   <img src="https://github.com/okagen/xlsVbaRatingTool_02_2Raters_VoiceData/blob/master/Data/04-4_RatingDialog.png"  width="400"> 
 
