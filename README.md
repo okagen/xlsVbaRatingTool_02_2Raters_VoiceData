@@ -50,7 +50,7 @@ The excel file contains 4 sheets like below. Two sheets "$list_rating" and "$lis
       - Input "*wav". Wildcard search is available. / "*wav"を入力。ワイルドカードによる指定が可能です。
   1. Number of point of view / 観点の数
       - Input a number from 1 to 10. / 1～10を入力。
-  1. Then click the "Create sheet"(シート作成) button. / 上記を入力したら【シート作成】ボタンを押す
+  1. Then click the "Create sheet"(シート作成) button. / 上記を入力したら【シート作成】ボタンを押します。
   
 <img src="https://github.com/okagen/xlsVbaRatingTool_02_2Raters_VoiceData/blob/master/Data/02-2_ToolSheet.png"  width="600">  
 
@@ -58,10 +58,12 @@ The excel file contains 4 sheets like below. Two sheets "$list_rating" and "$lis
 ## Step 2 : Start rating.
 
   1. "Rating Sheet"(採点シート) will appear in the excel file like below. / 以下のような「採点シート」が表示されます。
-<img src="https://github.com/okagen/xlsVbaRatingTool_02_2Raters_VoiceData/blob/master/Data/03-1_RatingSheet.png"  width="600">  
-Then click the "Rate without groups."(分類無視採点 開始) button.  
+  2. Then click the "Rate without groups."(分類無視採点 開始) button.  / 【分類無視採点 開始】ボタンを押します。
   
-The rating dialog like below will appear.
+<img src="https://github.com/okagen/xlsVbaRatingTool_02_2Raters_VoiceData/blob/master/Data/03-1_RatingSheet.png"  width="600">  
+
+  3. The rating dialog like below will appear. / 採点用ダイアログが表示されます。
+  
 <img src="https://github.com/okagen/xlsVbaRatingTool_02_2Raters_VoiceData/blob/master/Data/04_RatingDialog.png"  width="600">  
 
 ### Description of the dialog usage.
